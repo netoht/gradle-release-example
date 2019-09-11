@@ -11,9 +11,9 @@ Requirements:
 ### Setup
 
 - Remove the `version` property from the file `build.gradle`
-- Create the file `gradle.properties` in the project root folder
+- Create the `gradle.properties` file in the project root folder
 - Add `version` property into the file created above (eg.: `version=0.0.0-SNAPSHOT`)
-- Add into the file `build.gradle` the follow configuration:
+- Add into the `build.gradle` file the follow configuration:
 
 Configure the plugins `maven` and `net.researchgate.release`:
 
